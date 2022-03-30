@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="460px" preserveAspectRatio="none" style="width:985px;height:460px;background:#FFFFFF;" version="1.1" viewBox="0 0 985 460" width="985px" zoomAndPan="magnify"><defs><filter height="300%" id="f17kove2q6ey5d" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[e49dcf0963b5bfa168852be1dd4368c7]
+cluster ParkhausSystem--><rect fill="#FFFFFF" filter="url(#f17kove2q6ey5d)" height="364.5" style="stroke:#000000;stroke-width:1.5;" width="831" x="67.5" y="83.623"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="135" x="415.5" y="98.6181">ParkhausSystem</text><!--MD5=[bb6508eda81046b55ac654d2d8f69655]
+entity ParkhausInformationen--><ellipse cx="297.5" cy="400.123" fill="#FEFECE" filter="url(#f17kove2q6ey5d)" rx="12" ry="12" style="stroke:#A80036;stroke-width:1.5;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="285.5" x2="309.5" y1="414.123" y2="414.123"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="167" x="214" y="429.1181">ParkhausInformationen</text><!--MD5=[32b517d16bfc25c9bda3142cf98f9b16]
+entity Statistiken--><ellipse cx="456.5" cy="400.123" fill="#FEFECE" filter="url(#f17kove2q6ey5d)" rx="12" ry="12" style="stroke:#A80036;stroke-width:1.5;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="444.5" x2="468.5" y1="414.123" y2="414.123"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80" x="416.5" y="429.1181">Statistiken</text><!--MD5=[ed2482b10982cbd4e3a38685298018bf]
+entity BezahlenMaske--><path d="M346,122.623 L346,146.623 M346,134.623 L363,134.623 " fill="none" filter="url(#f17kove2q6ey5d)" style="stroke:#A80036;stroke-width:1.5;"/><ellipse cx="375" cy="134.623" fill="#FEFECE" filter="url(#f17kove2q6ey5d)" rx="12" ry="12" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="111" x="311" y="163.6181">BezahlenMaske</text><!--MD5=[fc3938a34146fa71ea01fbf7e22d1259]
+entity OffnungszeitenMaske--><path d="M166,122.623 L166,146.623 M166,134.623 L183,134.623 " fill="none" filter="url(#f17kove2q6ey5d)" style="stroke:#A80036;stroke-width:1.5;"/><ellipse cx="195" cy="134.623" fill="#FEFECE" filter="url(#f17kove2q6ey5d)" rx="12" ry="12" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="156" x="108.5" y="163.6181">OffnungszeitenMaske</text><!--MD5=[2cd36e3554e817b97beb68163a68714c]
+entity PlatzMaske--><path d="M219,263.623 L219,287.623 M219,275.623 L236,275.623 " fill="none" filter="url(#f17kove2q6ey5d)" style="stroke:#A80036;stroke-width:1.5;"/><ellipse cx="248" cy="275.623" fill="#FEFECE" filter="url(#f17kove2q6ey5d)" rx="12" ry="12" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="81" x="199" y="304.6181">PlatzMaske</text><!--MD5=[25681e21bc8a1472a712546905ecff47]
+entity PreisMaske--><path d="M103,263.623 L103,287.623 M103,275.623 L120,275.623 " fill="none" filter="url(#f17kove2q6ey5d)" style="stroke:#A80036;stroke-width:1.5;"/><ellipse cx="132" cy="275.623" fill="#FEFECE" filter="url(#f17kove2q6ey5d)" rx="12" ry="12" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80" x="83.5" y="304.6181">PreisMaske</text><!--MD5=[6ed6f1291a4b68e4c3432d9555c25894]
+entity ZeitMaske--><path d="M824,263.623 L824,287.623 M824,275.623 L841,275.623 " fill="none" filter="url(#f17kove2q6ey5d)" style="stroke:#A80036;stroke-width:1.5;"/><ellipse cx="853" cy="275.623" fill="#FEFECE" filter="url(#f17kove2q6ey5d)" rx="12" ry="12" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="807" y="304.6181">ZeitMaske</text><!--MD5=[6af90c99bd02948be3e76d3ffa24e9e4]
+entity ParkMaske--><path d="M713,263.623 L713,287.623 M713,275.623 L730,275.623 " fill="none" filter="url(#f17kove2q6ey5d)" style="stroke:#A80036;stroke-width:1.5;"/><ellipse cx="742" cy="275.623" fill="#FEFECE" filter="url(#f17kove2q6ey5d)" rx="12" ry="12" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="77" x="695" y="304.6181">ParkMaske</text><!--MD5=[d4316749e27366b6674e7fe9206edde4]
+entity AnalyseAuswertungMaske--><path d="M547,263.623 L547,287.623 M547,275.623 L564,275.623 " fill="none" filter="url(#f17kove2q6ey5d)" style="stroke:#A80036;stroke-width:1.5;"/><ellipse cx="576" cy="275.623" fill="#FEFECE" filter="url(#f17kove2q6ey5d)" rx="12" ry="12" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="184" x="475.5" y="304.6181">AnalyseAuswertungMaske</text><!--MD5=[816f9418aa2be3930fd15da349641b8a]
+entity ServletController--><ellipse cx="377.5" cy="275.623" fill="#FEFECE" filter="url(#f17kove2q6ey5d)" rx="12" ry="12" style="stroke:#A80036;stroke-width:1.5;"/><polygon fill="#A80036" points="373.5,263.623,379.5,258.623,377.5,263.623,379.5,268.623,373.5,263.623" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="125" x="315" y="304.6181">ServletController</text><!--MD5=[dd4341063b751316448a59cfefccaa04]
+entity Kunde--><ellipse cx="28.5" cy="111.623" fill="#FEFECE" filter="url(#f17kove2q6ey5d)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><path d="M28.5,119.623 L28.5,146.623 M15.5,127.623 L41.5,127.623 M28.5,146.623 L15.5,161.623 M28.5,146.623 L41.5,161.623 " fill="none" filter="url(#f17kove2q6ey5d)" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="45" x="6" y="180.1181">Kunde</text><!--MD5=[327d8b0cc9017ef0d2f4054fa6547e20]
+entity Manager--><ellipse cx="947.5" cy="252.623" fill="#FEFECE" filter="url(#f17kove2q6ey5d)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><path d="M947.5,260.623 L947.5,287.623 M934.5,268.623 L960.5,268.623 M947.5,287.623 L934.5,302.623 M947.5,287.623 L960.5,302.623 " fill="none" filter="url(#f17kove2q6ey5d)" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="61" x="917" y="321.1181">Manager</text><!--MD5=[9a6e6766ba9d01d9e3170f07bd1f7153]
+link Kunde to BezahlenMaske--><path d="M41.1483,101.95 C49.9098,81.167 63.8756,57.756 85,45.623 C153.986,6 190.088,16.194 264,45.623 C300.647,60.214 331.74,94.818 349.77,118.492 " fill="none" id="Kunde-BezahlenMaske" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[d229812c2403ec477ce911c0c801394c]
+link Kunde to OffnungszeitenMaske--><path d="M51.0273,142.623 C70.1664,142.623 89.3054,142.623 108.444,142.623 " fill="none" id="Kunde-OffnungszeitenMaske" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[12df2381af15738bdafa170bcaab120c]
+link Kunde to PlatzMaske--><path d="M51.3547,169.086 C56.4144,174.042 61.9343,178.98 67.5,183.123 C113.111,217.079 131.7,213.935 180.5,243.123 C188.963,248.185 197.898,253.941 206.184,259.462 " fill="none" id="Kunde-PlatzMaske" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[4dd2e8ce6f5ea72a847dc0a6e58374a8]
+link Kunde to PreisMaske--><path d="M51.0137,176.564 C68.4619,202.094 92.1983,236.824 107.681,259.477 " fill="none" id="Kunde-PreisMaske" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[d613d5a422f2df7a028c7a3fa9470105]
+link Manager to ZeitMaske--><path d="M916.947,283.623 C905.405,283.623 893.863,283.623 882.32,283.623 " fill="none" id="Manager-ZeitMaske" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[1d1b91c078026f58077933d9969eae07]
+link Manager to ParkMaske--><path d="M919.421,242.928 C908.891,231.035 895.831,219.521 881,213.123 C850.802,200.095 837.515,200.854 807,213.123 C783.869,222.423 763.921,242.866 750.667,259.355 " fill="none" id="Manager-ParkMaske" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[759ce45c2f381022c6c30f980dfb13d5]
+link Manager to AnalyseAuswertungMaske--><path d="M919.421,242.928 C908.891,231.035 895.831,219.521 881,213.123 C805.096,180.377 775.044,192.467 695,213.123 C660.222,222.098 624.797,242.807 600.143,259.472 " fill="none" id="Manager-AnalyseAuswertungMaske" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[bd124ff0c8da2d20f9f7dabc99d9b571]
+reverse link BezahlenMaske to ServletController--><path d="M368.761,172.195 C370.798,197.931 373.755,235.299 375.653,259.282 " fill="none" id="BezahlenMaske-backto-ServletController" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="368.341,166.888,365.0632,176.1754,368.7353,171.8724,373.0383,175.5445,368.341,166.888" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[25fdf0276024d15363b49d21c00f7679]
+reverse link OffnungszeitenMaske to ServletController--><path d="M222.708,169.973 C258.225,195.821 311.845,234.843 345.745,259.513 " fill="none" id="OffnungszeitenMaske-backto-ServletController" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="218.469,166.888,223.3914,175.4186,222.5114,169.8306,228.0994,168.9506,218.469,166.888" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[6307f4fc6d763b049c3e32e9a4c056eb]
+reverse link PlatzMaske to ServletController--><path d="M285.333,283.623 C295.151,283.623 304.969,283.623 314.787,283.623 " fill="none" id="PlatzMaske-backto-ServletController" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="280.199,283.623,289.199,287.623,285.199,283.623,289.199,279.623,280.199,283.623" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[f69c222500d5951dcdade4f55589cff6]
+reverse link PreisMaske to ServletController--><path d="M144.608,255.408 C158.185,239.717 177.314,221.674 199,213.123 C232.491,199.918 245.749,202.037 280,213.123 C308.22,222.257 335.132,242.949 353.505,259.567 " fill="none" id="PreisMaske-backto-ServletController" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="141.278,259.34,150.1468,255.057,144.5093,255.5244,144.0419,249.8869,141.278,259.34" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[8b9ef5a6b17462f92104e4f9efce0b36]
+link ServletController to ZeitMaske--><path d="M401.787,259.563 C420.371,242.943 447.567,222.25 476,213.123 C538.63,193.019 711.055,188.376 772,213.123 C793.144,221.709 811.508,239.751 824.463,255.434 " fill="none" id="ServletController-to-ZeitMaske" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="827.639,259.363,825.0926,249.849,824.4961,255.4743,818.8707,254.8777,827.639,259.363" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[8c12d4f810230a3923debf2a1d233fd2]
+link ServletController to ParkMaske--><path d="M401.787,259.563 C420.371,242.943 447.567,222.25 476,213.123 C553.865,188.129 584.125,182.617 660,213.123 C681.324,221.697 699.943,239.739 713.106,255.425 " fill="none" id="ServletController-to-ParkMaske" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="716.333,259.355,713.7112,249.8615,713.1593,255.4914,707.5294,254.9395,716.333,259.355" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[01de7d7e509afcad17e99eddd4eb02b7]
+link ServletController to AnalyseAuswertungMaske--><path d="M440.215,283.623 C450.094,283.623 459.974,283.623 469.853,283.623 " fill="none" id="ServletController-to-AnalyseAuswertungMaske" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="475.019,283.623,466.019,279.623,470.019,283.623,466.019,287.623,475.019,283.623" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[2351ce6384f5d71f3eb421fbddf4a083]
+link ServletController to ParkhausInformationen--><path d="M362.453,307.664 C349.129,328.067 329.655,357.886 315.507,379.5498 " fill="none" id="ServletController-to-ParkhausInformationen" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="312.752,383.7685,321.0226,378.4209,315.4863,379.5824,314.3248,374.046,312.752,383.7685" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[e42b7d0fc9d23de64b6152d0bffd9f54]
+link ServletController to Statistiken--><path d="M392.359,307.664 C405.517,328.067 424.747,357.886 438.718,379.5498 " fill="none" id="ServletController-to-Statistiken" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="441.439,383.7685,439.9235,374.0369,438.7294,379.5663,433.2001,378.3722,441.439,383.7685" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[e5b23236ec14e0fce19d0d42b29b62ba]
+@startuml
+actor Kunde
+actor Manager
+
+rectangle ParkhausSystem {
+
+
+  entity ParkhausInformationen
+  entity Statistiken
+
+
+  boundary BezahlenMaske
+  boundary OffnungszeitenMaske
+  boundary PlatzMaske
+  boundary PreisMaske
+
+  boundary ZeitMaske
+  boundary ParkMaske
+  boundary AnalyseAuswertungMaske
+
+
+  Kunde -right- BezahlenMaske
+  Kunde -right- OffnungszeitenMaske
+  Kunde -right- PlatzMaske
+  Kunde -right- PreisMaske
+
+  Manager -right- ZeitMaske
+  Manager -right- ParkMaske
+  Manager -right- AnalyseAuswertungMaske
+
+  control ServletController
+
+
+
+  ServletController .up.> BezahlenMaske
+  ServletController .up.> OffnungszeitenMaske
+
+  ServletController .left.> PlatzMaske
+  ServletController .left.> PreisMaske
+
+  ServletController .right.> ZeitMaske
+  ServletController .right.> ParkMaske
+  ServletController .right.> AnalyseAuswertungMaske
+
+  ServletController ..> ParkhausInformationen
+  ServletController ..> Statistiken
+
+}
+@enduml
+
+PlantUML version 1.2021.9beta2(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

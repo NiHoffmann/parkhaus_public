@@ -1,0 +1,6 @@
+
+target/Parkhaus-1.0-SNAPSHOT/META-INF/MANIFEST.MF
+*.MF
+.idea/workspace.xml
+.idea/workspace.xml
+.idea/libraries/javax_json_1_1.xml
